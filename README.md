@@ -10,7 +10,7 @@ Rodet en text. [''Allò que munta baixa''](P1_Optativo.gif)
 
 ## p2
 
-Text extruit amb forma dona. [''Llebeig''](P2.gif)
+Text extruit amb forma dona. [''Xaloc''](P2.gif)
 
 ## p2_Optatiu
 
