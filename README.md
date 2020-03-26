@@ -4,13 +4,25 @@
 
 Rodet en text. [''Quan tu vas ella torna''](P1.gif)
 
+## p1_Optatiu
+
+Rodet en text. ['''']()
+
 ## p2
 
 Text extruit amb forma dona. [''Llebeig''](P2.gif)
 
+## p2_Optatiu
+
+Text extruit amb forma dona [''Xaloc'']()
+
 ## p3
 
 Text amb rotació. [''Volta''](P3.gif)
+
+## p3_Optatiu
+
+Text amb rotació. [''Revolta'']()
 
 ## p4
 
