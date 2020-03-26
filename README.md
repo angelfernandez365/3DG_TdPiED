@@ -6,7 +6,7 @@ Rodet en text. [''Quan tu vas ella torna''](P1.gif)
 
 ## p1_Optatiu
 
-Rodet en text. ['''']()
+Rodet en text. [''Allò que munta baixa''](P1_Optativo.gif)
 
 ## p2
 
@@ -14,7 +14,7 @@ Text extruit amb forma dona. [''Llebeig''](P2.gif)
 
 ## p2_Optatiu
 
-Text extruit amb forma dona [''Xaloc'']()
+Text extruit amb forma dona [''onatge''](P2_Optativo.gif)
 
 ## p3
 
@@ -22,7 +22,7 @@ Text amb rotació. [''Volta''](P3.gif)
 
 ## p3_Optatiu
 
-Text amb rotació. [''Revolta'']()
+Text amb rotació. [''caiguda''](P3_Optativo.gif)
 
 ## p4
 
