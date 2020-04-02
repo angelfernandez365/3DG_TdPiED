@@ -38,3 +38,10 @@ Aplicació de textures en cares diferents del cub. Rotació i bucle. [''No és n
 ## p7
 
 Textura amb text aplicat a [''TOT ANIRÁ BÉ](P7.gif)
+
+## p8
+
+
+## p9
+
+Bodegó [''Bodegó''](P9.jpg)
