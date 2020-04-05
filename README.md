@@ -41,6 +41,7 @@ Textura amb text aplicat a [''TOT ANIRÁ BÉ](P7.gif)
 
 ## p8
 
+Vórtex [''Coronavirus Festival''](P8.jpg)
 
 ## p9
 
