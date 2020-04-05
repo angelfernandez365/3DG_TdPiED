@@ -37,11 +37,15 @@ Aplicació de textures en cares diferents del cub. Rotació i bucle. [''No és n
 
 ## p7
 
-Textura amb text aplicat a [''TOT ANIRÁ BÉ](P7.gif)
+Torn amb textura [''TOT ANIRÁ BÉ](P7.gif)
 
 ## p8
 
 Vórtex [''Coronavirus Festival''](P8.jpg)
+
+## p8_Optatiu
+
+Recorregut [''Abstracte''](P8_Optatiu.jpg)
 
 ## p9
 
