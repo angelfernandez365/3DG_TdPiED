@@ -50,3 +50,7 @@ Recorregut [''Abstracte''](P8_Optatiu.jpg)
 ## p9
 
 Bodegó [''Bodegó''](P9.jpg)
+
+## p10
+
+Escenari Lissitzky [''Lissitzky propi''](P10.jpg)
