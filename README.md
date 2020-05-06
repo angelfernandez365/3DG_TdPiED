@@ -55,6 +55,10 @@ Bodegó [''Bodegó''](P9.jpg)
 
 Escenari Lissitzky [''Lissitzky propi''](P10.jpg)
 
+## p10_Optatiu
+
+Escenari optatiu [''Skater geomètric''](P10_Optatiu.jpg)
+
 ## p11
 
 Creació de personatge [''equilibrista de circ''](P11.jpg)
